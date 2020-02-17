@@ -1,6 +1,6 @@
 # The fundamental theorem of arithmetric
 
-Imagine we are living in prehistoric times. Now, consider the following. how did we keep track of time without a clock? All clock are based on some repetitive pattern which divides the flow of time into equal segments. To find these repetitive patterns, we look towards the heavens. 
+Imagine we are living in prehistoric times. Now, consider the following. how did we keep track of time without a clock? All clock are based on some repetitive pattern which divides the flow of time into equal segments. **To find these repetitive patterns, we look towards the heavens**. 
 
 The sun rising and falling each day is the most obvious. However, to keep track of longer periods of time, we looked for longer cycles. For this we looked to the moon, which seemed to gradually grow and shrink over many days. When we count the number of days between full moons, we arrive at the number 29. This is the origin of a month.  However, if we try to divide 29 into equal pieces, we run into a problem. It is impossible. The only way to divide 29 into equal pieces is to break it back down into single units. 29 is a prime number.Think of it as unbreakable. If a number can be broken down into equal pieces greater than one, we call it a composite number.
 
@@ -10,24 +10,29 @@ So let's fast forward to around 300 BC in ancient Greece. A philosophy known as 
 
 
 
+**Comment**:
+
+- day -- sun rising and falling 
+
+- month --month
+
+- year -- Sun
 
 
 
+Reference:
 
-second
+1 <https://zh.wikipedia.org/zh-cn/原子鐘>
 
-minius
+2 <https://zh.wikipedia.org/zh-cn/时间>
 
-hour
+3 <https://zh.wikipedia.org/zh-cn/星期>
 
-day -- sun rising and falling 
+4 <https://zh.wikipedia.org/zh-cn/年>
 
-month --month
+5 <https://zh.wikipedia.org/wiki/小时>
 
-year -- Sun
+6 <https://zh.wikipedia.org/zh-cn/数量级_(时间)>
 
+7 https://en.wikipedia.org/wiki/Ulam_spiral
 
-
-find prime data using python.
-
-Ulam spiral
